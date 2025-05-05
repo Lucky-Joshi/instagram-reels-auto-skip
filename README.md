@@ -21,15 +21,6 @@ The extension detects when a reel has finished playing two times and simulates a
 
 ---
 
-## 📁 Folder Structure
-
-instagram-reels-auto-skip/
-├── manifest.json
-└── content.js
-
-
----
-
 ## 🚀 Installation Steps
 
 1. **Clone or Download** this repository and save it to a folder.
